@@ -72,10 +72,3 @@ Key goals:
 
 - `Netflix Dashboard.pbix` – Power BI dashboard file
 - `netflix_titles.csv` – Original dataset
-
-
-## 📌 Future Improvements
-
-- Add streaming duration analytics (if available).
-- Incorporate IMDb ratings or viewer scores.
-- Create a mobile-optimized version.
